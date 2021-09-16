@@ -3,15 +3,16 @@
   flex-wrap: wrap;
   gap: 1rem;
   margin-bottom: 1rem;
-  text-align: center;
+  text-align: left;
 }
-.new-expense__controls label {
+
+.new-expense__control label {
   font-weight: bold;
   margin-bottom: 0.5rem;
   display: block;
-  text-align: left;
 }
-.new-expense__controls input {
+
+.new-expense__control input {
   font: inherit;
   padding: 0.5rem;
   border-radius: 6px;
@@ -19,6 +20,7 @@
   width: 20rem;
   max-width: 100%;
 }
+
 .new-expense__actions {
   text-align: right;
 }
