@@ -6,9 +6,9 @@ import Heading from './components/UI/Heading';
 const DUMMY_EXPENSES = [
   {
     id: "e1",
-    title: "Toilet Paper",
-    amount: 94.12,
-    date: new Date(2021, 3, 25),
+    title: "iPhone 13 Pro",
+    amount: 999.99,
+    date: new Date(2021, 8, 17),
   },
   { 
     id: "e2", 
